@@ -3,7 +3,7 @@
   "repo": "samp-plugin-mapandreas",
   "resources": [
     {
-      "name": "^MapAndreas-linux-x86.zip",
+      "name": "^MapAndreas-linux-x86.zip$",
       "platform": "linux",
       "archive": true,
       "includes": ["linux\\/include"],
@@ -14,7 +14,7 @@
       }
     },
     {
-      "name": "^MapAndreas-win-x86.zip",
+      "name": "^MapAndreas-win-x86.zip$",
       "platform": "windows",
       "archive": true,
       "includes": ["windows\\/include"],
